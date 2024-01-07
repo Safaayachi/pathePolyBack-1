@@ -1,4 +1,4 @@
-# Utilisez une image de base
+  # Utilisez une image de base
 FROM mcr.microsoft.com/windows/servercore:ltsc2019
 
 # Étiquetez l'auteur de l'image
